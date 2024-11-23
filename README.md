@@ -1,23 +1,10 @@
 ## Hi there 👋
+I'm Satya, an engineering student currently studying at AVV, Bengaluru.
+My primary focus is on Artificial Intelligence and Machine Learning.
+A passionate cinephile who loves discussing movies.
+Feel free to connect with me on Discord: sp.9696.
 
-I am Satya.
-Studying at AVV, Bengaluru.
-My Main focus is on Artificial intelligence and Machine Learning.
-Cinephile.
-Hit me up on discord sp.9696
-Projects dont do far:
-Currently Working on:
-<!--
-**CodeLanderV/CodeLanderV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects So Far:
+-
+## Currently Working On:
+-
