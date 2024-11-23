@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am Satya.
+Studying at AVV, Bengaluru.
+My Main focus is on Artificial intelligence and Machine Learning.
+Cinephile.
+Hit me up on discord sp.9696
+Projects dont do far:
+Currently Working on:
 <!--
 **CodeLanderV/CodeLanderV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
