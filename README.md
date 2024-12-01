@@ -5,6 +5,6 @@
 - Feel free to connect with me on Discord: sp.9696.
 
 ## Projects So Far:
--
+- WeatherML: Basic Weather Prediction Model
 ## Currently Working On:
 -
