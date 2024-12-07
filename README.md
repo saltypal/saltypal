@@ -7,4 +7,4 @@
 ## Projects So Far:
 - WeatherML: Basic Weather Prediction Model
 ## Currently Working On:
--
+- nand2tetris
