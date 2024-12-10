@@ -8,3 +8,5 @@
 - WeatherML: Basic Weather Prediction Model
 ## Currently Working On:
 - nand2tetris
+- aura charge
+- human metagenomics ml model
