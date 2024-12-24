@@ -13,4 +13,4 @@
 - Stock prediction model
 ## Plans 
 - Simple Traffic Management system
-- 
+- Logic Behind Elevator system
