@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I'm Satya, an engineering student currently studying at AVV, Bengaluru.
+- I'm Satya, an engineering student currently studying at Amtita Vishwa Vidyapeetham, Bengaluru.
 - My primary focus is on Artificial Intelligence and Machine Learning.
 - A passionate cinephile who loves discussing movies.
 - Feel free to connect with me on Discord: sp.9696.
