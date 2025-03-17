@@ -7,5 +7,5 @@
 ## Projects So Far:
 - WeatherML: Basic Weather Prediction Model
 - nand2tetris
-- [Aura Charge](https://github.com/Ekansh-K/Aura_Charger_IEE/tree/Satya's-branch) (Co-author)
+- [Aura Charge](https://github.com/Ekansh-K/IEE_End_Sem_AuraCharger)(Co-author)
 - [Human Metagenomics](https://github.com/Ekansh-K/Human_Metagenomics_IBD_Project/tree/Satya's-Branch/dataset) (Co-author)
