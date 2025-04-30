@@ -5,6 +5,7 @@
 - Feel free to connect with me on Discord: sp.9696.
 
 ## Projects So Far:
+- [SuperPie4j: Generative AI Chatbot based on Ollama using LangChain4j (java)](https://github.com/CodeLanderV/SuperPie4j)
 - WeatherML: Basic Weather Prediction Model
 - nand2tetris
 - [Aura Charge](https://github.com/Ekansh-K/IEE_End_Sem_AuraCharger)(Co-author)
