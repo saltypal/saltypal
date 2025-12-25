@@ -2,7 +2,7 @@
 
 # Satya
 ## What a sudden suppai seeing you here
-[![LinkedIn]([https://www.linkedin.com/in/satya-paladugu-38122a318/])
+![LinkedIn]([https://www.linkedin.com/in/satya-paladugu-38122a318/])
 
 </div>
 
