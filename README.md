@@ -44,8 +44,6 @@ give me employment pls
 
 <div align="center">
 
-### *ಕಾಫಿ ಕುಡಿ, ಕೋಡ್ ಹಾಕು* ☕
-
 ![](https://komarev.com/ghpvc/?username=saltypal&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
