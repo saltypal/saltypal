@@ -2,7 +2,7 @@
 
 # Satya
 ## What a sudden suppai seeing you here
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue? style=flat&logo=linkedin)]([https://www.linkedin.com/in/satya-paladugu-38122a318/])
+[![LinkedIn]([https://www.linkedin.com/in/satya-paladugu-38122a318/])
 
 </div>
 
