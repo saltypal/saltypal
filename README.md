@@ -1,7 +1,4 @@
-## Hi there 👋
-- I'm Satya, an engineering student currently studying at Amrita Vishwa Vidyapeetham, Bengaluru.
-- My primary focus is on Artificial Intelligence and Machine Learning.
-- A passionate cinephile who loves discussing movies.
+## Hi what a sudden suppai
 
 ## Projects So Far:
 - [2048 Game using Value-Based Reinforcement Learning](https://github.com/CodeLanderV/2048-Reinforcement-Learning)
