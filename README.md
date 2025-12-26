@@ -18,8 +18,8 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🎮 [**2048 RL Agent**](https://github.com/CodeLanderV/2048-Reinforcement-Learning) | Value-based RL model for 2048 game | Python, RL |
-| 🌿 [**PlantSVM**](https://github.com/Akshitad23/PlantSVM) | Plant disease classification using convex optimization | Python, SVM |
-| 🤖 [**SuperPie4j**](https://github.com/CodeLanderV/SuperPie4j) | GenAI chatbot with Ollama & LangChain4j | Java, LLM |
-| 📝 [**SimpliNote**](https://github.com/CodeLanderV/SimpliNote) | LLM-powered productivity app | Java, AI |
-| 🔧 **nand2tetris** | Building computer systems from scratch | Hardware, Assembly |
+| [**2048 RL Agent**](https://github.com/CodeLanderV/2048-Reinforcement-Learning) | Value-based RL model for 2048 game | Python, RL |
+| [**PlantSVM**](https://github.com/Akshitad23/PlantSVM) | Plant disease classification using convex optimization | Python, SVM |
+| [**SuperPie4j**](https://github.com/CodeLanderV/SuperPie4j) | GenAI chatbot with Ollama & LangChain4j | Java, LLM |
+| [**SimpliNote**](https://github.com/CodeLanderV/SimpliNote) | LLM-powered productivity app | Java, AI |
+| **nand2tetris** | Building computer systems from scratch | Hardware, Assembly |
