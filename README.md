@@ -23,5 +23,3 @@
 | 🤖 [**SuperPie4j**](https://github.com/CodeLanderV/SuperPie4j) | GenAI chatbot with Ollama & LangChain4j | Java, LLM |
 | 📝 [**SimpliNote**](https://github.com/CodeLanderV/SimpliNote) | LLM-powered productivity app | Java, AI |
 | 🔧 **nand2tetris** | Building computer systems from scratch | Hardware, Assembly |
-| 🧬 [**Human Metagenomics**](https://github.com/Ekansh-K/Human_Metagenomics_IBD_Project/tree/Satya's-Branch/dataset) | IBD genomics analysis | Bioinformatics |
-
