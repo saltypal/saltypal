@@ -1,7 +1,6 @@
 <div align="center">
 
-# Satya
-## What a sudden suppai seeing you here
+# Satya 
 
 </div>
 
