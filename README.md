@@ -67,13 +67,4 @@ Currently, I'm working on a project based on **OpenWRT**.
 
 ---
 
-## GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=saltypal&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=saltypal&theme=github_dark&layout=compact&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=saltypal&theme=github-dark&hide_border=true" />
-</p>
