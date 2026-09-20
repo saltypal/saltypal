@@ -18,7 +18,6 @@ I'm an undergraduate at **Amrita Vishwa Vidyapeetham** passionate about building
 - Networking
 - Wireless Communications
 
-Currently, I'm working on a project based on **OpenWRT**.
 
 ---
 
