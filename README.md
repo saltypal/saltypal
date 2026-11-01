@@ -1,93 +1,44 @@
-# Hi, I'm Satya Srinivas Paladugu
+# Satya Srinivas Paladugu
 
-<p align="center">
-  <b>B.Tech Artificial Intelligence & Data Science</b><br>
-  Amrita Vishwa Vidyapeetham
-</p>
+AI & Data Science undergraduate at **Amrita Vishwa Vidyapeetham, Bengaluru**.
 
-<p align="center">
-  Building software systems from first principles.
-</p>
+I work on AI, high-performance computing, networking, and communications. I like understanding how systems work, building parts of them myself, and seeing where they break.
 
-<p align="center">
-  <a href="https://discord.gg/sp.9696">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://linkedin.com/in/Satya%20Srinivas%20Paladugu">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:satyaspaladuguplus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+[Website](https://saltypal.github.io/) · [Portfolio](https://saltypal.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/satya-paladugu-38122a318/) · [Email](mailto:satyaspaladuguplus@gmail.com)
 
----
+## Currently building
 
-## About Me
+- **[SuperPie Runtime](https://github.com/saltypal/SuperPieRuntime)** — an inference module to simplify running AI models locally, in the cloud, or elsewhere.
+- **[Sahakaram MCP](https://github.com/saltypal/Sahakaram)** — shared rooms, messages, and tasks for supervised collaboration between coding agents.
+- **RDMA over Ethernet** — exploring communication between two laptops.
+- **TrueFace3D** — 2D-to-3D facial reconstruction.
+- **Parallel stochastic gradient descent** — exploring parallel training and optimization.
 
-I'm an undergraduate student focused on understanding how intelligent and distributed systems work beneath the surface.
+## Interests
 
-My interests include:
+- Reinforcement learning and multi-agent systems
+- GPU programming and high-performance computing
+- Computer networks and distributed systems
+- Wireless and semantic communications
 
-- Artificial Intelligence
-- Reinforcement Learning
-- Multi-Agent Systems
-- Computer Networking
-- Wireless Communications
+## Technologies I work with
 
-I enjoy turning ideas into practical systems, experimenting with new technologies, and learning through implementation.
+| Area | Technologies |
+|---|---|
+| Languages | Python, C, C++, Java, JavaScript |
+| AI & data | PyTorch, scikit-learn, NumPy, Pandas |
+| Parallel computing | CUDA, OpenMP, MPI |
+| Networks & communications | ns-3, GNU Radio, Wireshark, OpenWrt |
+| Tools | Linux, Git, GitHub, MCP |
 
----
+## A few projects
 
-## Technologies
+- **[Sahakaram MCP](https://github.com/saltypal/Sahakaram)**
+- **[SuperPie Runtime](https://github.com/saltypal/SuperPieRuntime)**
+- **[Multi-agent RL for urban traffic](https://github.com/saltypal/Hierarchical-multi-agent-RL-for-Urban-Traffic)**
+- **[AI-generated speech detection](https://github.com/saltypal/Multi-Agent-Detection-of-AI-Generated-Speech)**
 
-### Languages
+## Contact
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-</p>
-
-### AI and Data
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-</p>
-
-### Tools and Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
-</p>
-
----
-
-## Currently Exploring
-
-- Reinforcement learning algorithms
-- Intelligent multi-agent coordination
-- Networked systems and communication protocols
-- Wireless communication systems
-- Reliable software architecture
-
----
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/Satya%20Srinivas%20Paladugu">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:satyaspaladuguplus@gmail.com">Email</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://discord.gg/sp.9696">Discord</a>
-</p>
+Email: [satyaspaladuguplus@gmail.com](mailto:satyaspaladuguplus@gmail.com)  
+Discord: `sp.9696`
